@@ -1,9 +1,11 @@
 #NETFLIX CLONE
 ## DEMO: https://anshul-devloper.github.io/NETFLIX-CLONE
+## TMDB api key is used.
+## external pakage like react-youtube,movie-trailer has been uesd in it
+## You can click on movies poster to see its trailer
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
