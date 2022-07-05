@@ -1,4 +1,4 @@
-#NETFLIX CLONE
+# NETFLIX CLONE
 ## DEMO: https://anshul-devloper.github.io/NETFLIX-CLONE
 ## TMDB api key is used.
 ## external pakage like react-youtube,movie-trailer has been uesd in it
