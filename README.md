@@ -1,9 +1,11 @@
-# NETFLIX CLONE
-### DEMO: https://anshul-devloper.github.io/NETFLIX-CLONE
-### TMDB api is used for fetching movies list.
-### Build using ReactJs, axios, npm packages.
-### You can click on movies posters to watch its trailer.
+# NETFLIX CLONE :
+### • DEMO: https://anshul-devloper.github.io/NETFLIX-CLONE
+### • TMDB api is used for fetching movies list.
+### • Build using ReactJs, axios, npm packages.
+### • You can click on movie posters to watch its trailer.
 
+<br>
+<br>
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
